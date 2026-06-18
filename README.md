@@ -21,8 +21,8 @@ You do not need to download the game zip manually unless you want a portable ins
 
 | Platform | File | Direct link |
 |----------|------|-------------|
-| **Windows** | Portable EXE | [World.of.Kogaea.BR.Launcher.1.0.0.exe](https://github.com/umbecanessa/World-of-Kogaea-BR-Releases/releases/download/launcher-v1.0.5/World.of.Kogaea.BR.Launcher.1.0.0.exe) |
-| **macOS** (Apple Silicon) | DMG | [World.of.Kogaea.BR.Launcher-1.0.5-arm64.dmg](https://github.com/umbecanessa/World-of-Kogaea-BR-Releases/releases/download/launcher-v1.0.5/World.of.Kogaea.BR.Launcher-1.0.5-arm64.dmg) |
+| **Windows** | World.of.Kogaea.BR.Launcher.1.0.0.exe | [World.of.Kogaea.BR.Launcher.1.0.0.exe](https://github.com/umbecanessa/World-of-Kogaea-BR-Releases/releases/download/launcher-v1.0.5/World.of.Kogaea.BR.Launcher.1.0.0.exe) |
+| **macOS** (Apple Silicon) | World.of.Kogaea.BR.Launcher-1.0.5-arm64.dmg | [World.of.Kogaea.BR.Launcher-1.0.5-arm64.dmg](https://github.com/umbecanessa/World-of-Kogaea-BR-Releases/releases/download/launcher-v1.0.5/World.of.Kogaea.BR.Launcher-1.0.5-arm64.dmg) |
 
 All launcher releases: [launcher-v1.0.5](https://github.com/umbecanessa/World-of-Kogaea-BR-Releases/releases/tag/launcher-v1.0.5)
 
@@ -38,8 +38,8 @@ Use these only if you are **not** using the launcher.
 
 | Platform | File | Direct link |
 |----------|------|-------------|
-| **Windows** | game-windows.zip (~950 MB) | [Download](https://github.com/umbecanessa/World-of-Kogaea-BR-Releases/releases/download/v0.1.5/game-windows.zip) |
-| **macOS** | game-mac.zip (~960 MB) | [Download](https://github.com/umbecanessa/World-of-Kogaea-BR-Releases/releases/download/v0.1.5/game-mac.zip) |
+| **Windows** | game-windows.zip | [Download](https://github.com/umbecanessa/World-of-Kogaea-BR-Releases/releases/download/v0.1.5/game-windows.zip) |
+| **macOS** | game-mac.zip | [Download](https://github.com/umbecanessa/World-of-Kogaea-BR-Releases/releases/download/v0.1.5/game-mac.zip) |
 
 Extract and run the game executable inside the zip. You must connect to **Stage** when prompted.
 
@@ -65,7 +65,7 @@ Full history and changelogs: **[Releases](https://github.com/umbecanessa/World-o
 | [v0.1.5](https://github.com/umbecanessa/World-of-Kogaea-BR-Releases/releases/tag/v0.1.5) | Game (latest) |
 | [launcher-v1.0.5](https://github.com/umbecanessa/World-of-Kogaea-BR-Releases/releases/tag/launcher-v1.0.5) | Launcher (latest) |
 
-Older game builds (v0.1.0–v0.1.4) remain on the [Releases](https://github.com/umbecanessa/World-of-Kogaea-BR-Releases/releases) page.
+Older builds remain on the [Releases](https://github.com/umbecanessa/World-of-Kogaea-BR-Releases/releases) page.
 
 ---
 
@@ -84,4 +84,4 @@ Report bugs and feedback in the community Telegram channel or to the team direct
 
 ---
 
-*Built from [World-of-Kogaea-BR](https://github.com/umbecanessa/World-of-Kogaea-BR) (private source). This public repo exists so the launcher can auto-update without exposing the codebase.*
+*Built from [World-of-Kogaea-BR](https://github.com/umbecanessa/World-of-Kogaea-BR) (private source). This public repo exists so the launcher can auto-update without exposing the codebase. README is updated automatically by release scripts in the source repo.*
