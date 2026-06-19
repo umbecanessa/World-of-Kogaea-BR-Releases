@@ -2,7 +2,7 @@
 
 Public builds for the **World of Kogaea Battle Royale** playtest. This repo hosts release assets only — game source is private.
 
-**Latest game:** [v0.1.5](https://github.com/umbecanessa/World-of-Kogaea-BR-Releases/releases/tag/v0.1.5) · **Latest launcher:** [v1.0.5](https://github.com/umbecanessa/World-of-Kogaea-BR-Releases/releases/tag/launcher-v1.0.5)
+**Latest game:** [v0.1.6](https://github.com/umbecanessa/World-of-Kogaea-BR-Releases/releases/tag/v0.1.6) · **Latest launcher:** [v1.0.5](https://github.com/umbecanessa/World-of-Kogaea-BR-Releases/releases/tag/launcher-v1.0.5)
 
 ---
 
@@ -38,21 +38,22 @@ Use these only if you are **not** using the launcher.
 
 | Platform | File | Direct link |
 |----------|------|-------------|
-| **Windows** | game-windows.zip | [Download](https://github.com/umbecanessa/World-of-Kogaea-BR-Releases/releases/download/v0.1.5/game-windows.zip) |
-| **macOS** | game-mac.zip | [Download](https://github.com/umbecanessa/World-of-Kogaea-BR-Releases/releases/download/v0.1.5/game-mac.zip) |
+| **Windows** | game-windows.zip | [Download](https://github.com/umbecanessa/World-of-Kogaea-BR-Releases/releases/download/v0.1.6/game-windows.zip) |
+| **macOS** | game-mac.zip | [Download](https://github.com/umbecanessa/World-of-Kogaea-BR-Releases/releases/download/v0.1.6/game-mac.zip) |
 
 Extract and run the game executable inside the zip. You must connect to **Stage** when prompted.
 
-Current release notes: [v0.1.5](https://github.com/umbecanessa/World-of-Kogaea-BR-Releases/releases/tag/v0.1.5)
+Current release notes: [v0.1.6](https://github.com/umbecanessa/World-of-Kogaea-BR-Releases/releases/tag/v0.1.6)
 
 ---
 
-## What to test (v0.1.5)
+## What to test (v0.1.6)
 
-- **Trainer bots** — queue solo; bots fill lobby and match
-- **Solo / small groups** — Playtest Solo queue (starts at 4 players)
-- **Balance** — PvE difficulty by map ring; Act I farming deaths respawn (not eliminated)
-- **Movement** — report rubber-banding or odd remote trainer movement
+- Ranked season UI, shield tier emblems, and fullscreen lobby layout.
+- Fullscreen lobby with ranked season card and tier emblems
+- Play mode list with descriptions and open-room browse
+- Collection panel loadout on the same screen
+- Use Stage environment in the launcher to auto-update
 
 ---
 
@@ -62,7 +63,7 @@ Full history and changelogs: **[Releases](https://github.com/umbecanessa/World-o
 
 | Tag | Type |
 |-----|------|
-| [v0.1.5](https://github.com/umbecanessa/World-of-Kogaea-BR-Releases/releases/tag/v0.1.5) | Game (latest) |
+| [v0.1.6](https://github.com/umbecanessa/World-of-Kogaea-BR-Releases/releases/tag/v0.1.6) | Game (latest) |
 | [launcher-v1.0.5](https://github.com/umbecanessa/World-of-Kogaea-BR-Releases/releases/tag/launcher-v1.0.5) | Launcher (latest) |
 
 Older builds remain on the [Releases](https://github.com/umbecanessa/World-of-Kogaea-BR-Releases/releases) page.
