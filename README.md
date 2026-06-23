@@ -2,7 +2,7 @@
 
 Public builds for the **World of Kogaea Battle Royale** playtest. This repo hosts release assets only — game source is private.
 
-**Latest game:** [v0.1.7](https://github.com/umbecanessa/World-of-Kogaea-BR-Releases/releases/tag/v0.1.7) · **Latest launcher:** [v1.0.8](https://github.com/umbecanessa/World-of-Kogaea-BR-Releases/releases/tag/launcher-v1.0.8)
+**Latest game:** [v0.1.7](https://github.com/umbecanessa/World-of-Kogaea-BR-Releases/releases/tag/v0.1.7) · **Latest launcher:** [v1.0.9](https://github.com/umbecanessa/World-of-Kogaea-BR-Releases/releases/tag/launcher-v1.0.9)
 
 ---
 
@@ -21,10 +21,10 @@ You do not need to download the game zip manually unless you want a portable ins
 
 | Platform | File | Direct link |
 |----------|------|-------------|
-| **Windows** | World.of.Kogaea.BR.Launcher.1.0.0.exe | [World.of.Kogaea.BR.Launcher.1.0.0.exe](https://github.com/umbecanessa/World-of-Kogaea-BR-Releases/releases/download/launcher-v1.0.8/World.of.Kogaea.BR.Launcher.1.0.0.exe) |
-| **macOS** (Apple Silicon) | World.of.Kogaea.BR.Launcher-1.0.5-arm64.dmg | [World.of.Kogaea.BR.Launcher-1.0.5-arm64.dmg](https://github.com/umbecanessa/World-of-Kogaea-BR-Releases/releases/download/launcher-v1.0.8/World.of.Kogaea.BR.Launcher-1.0.5-arm64.dmg) |
+| **Windows** | World.of.Kogaea.BR.Launcher.1.0.0.exe | [World.of.Kogaea.BR.Launcher.1.0.0.exe](https://github.com/umbecanessa/World-of-Kogaea-BR-Releases/releases/download/launcher-v1.0.9/World.of.Kogaea.BR.Launcher.1.0.0.exe) |
+| **macOS** (Apple Silicon) | World.of.Kogaea.BR.Launcher-1.0.9.dmg | [World.of.Kogaea.BR.Launcher-1.0.9.dmg](https://github.com/umbecanessa/World-of-Kogaea-BR-Releases/releases/download/launcher-v1.0.9/World.of.Kogaea.BR.Launcher-1.0.9.dmg) |
 
-All launcher releases: [launcher-v1.0.8](https://github.com/umbecanessa/World-of-Kogaea-BR-Releases/releases/tag/launcher-v1.0.8)
+All launcher releases: [launcher-v1.0.9](https://github.com/umbecanessa/World-of-Kogaea-BR-Releases/releases/tag/launcher-v1.0.9)
 
 ### macOS first launch
 
@@ -63,7 +63,7 @@ Full history and changelogs: **[Releases](https://github.com/umbecanessa/World-o
 | Tag | Type |
 |-----|------|
 | [v0.1.7](https://github.com/umbecanessa/World-of-Kogaea-BR-Releases/releases/tag/v0.1.7) | Game (latest) |
-| [launcher-v1.0.8](https://github.com/umbecanessa/World-of-Kogaea-BR-Releases/releases/tag/launcher-v1.0.8) | Launcher (latest) |
+| [launcher-v1.0.9](https://github.com/umbecanessa/World-of-Kogaea-BR-Releases/releases/tag/launcher-v1.0.9) | Launcher (latest) |
 
 Older builds remain on the [Releases](https://github.com/umbecanessa/World-of-Kogaea-BR-Releases/releases) page.
 
