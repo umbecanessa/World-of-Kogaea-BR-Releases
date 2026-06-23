@@ -2,7 +2,7 @@
 
 Public builds for the **World of Kogaea Battle Royale** playtest. This repo hosts release assets only — game source is private.
 
-**Latest game:** [v0.1.7](https://github.com/umbecanessa/World-of-Kogaea-BR-Releases/releases/tag/v0.1.7) · **Latest launcher:** [v1.0.9](https://github.com/umbecanessa/World-of-Kogaea-BR-Releases/releases/tag/launcher-v1.0.9)
+**Latest game:** [v0.1.9](https://github.com/umbecanessa/World-of-Kogaea-BR-Releases/releases/tag/v0.1.9) · **Latest launcher:** [v1.0.9](https://github.com/umbecanessa/World-of-Kogaea-BR-Releases/releases/tag/launcher-v1.0.9)
 
 ---
 
@@ -21,7 +21,7 @@ You do not need to download the game zip manually unless you want a portable ins
 
 | Platform | File | Direct link |
 |----------|------|-------------|
-| **Windows** | World.of.Kogaea.BR.Launcher.1.0.0.exe | [World.of.Kogaea.BR.Launcher.1.0.0.exe](https://github.com/umbecanessa/World-of-Kogaea-BR-Releases/releases/download/launcher-v1.0.9/World.of.Kogaea.BR.Launcher.1.0.0.exe) |
+| **Windows** | World.of.Kogaea.BR.Launcher-1.0.9.exe | [World.of.Kogaea.BR.Launcher-1.0.9.exe](https://github.com/umbecanessa/World-of-Kogaea-BR-Releases/releases/download/launcher-v1.0.9/World.of.Kogaea.BR.Launcher-1.0.9.exe) |
 | **macOS** (Apple Silicon) | World.of.Kogaea.BR.Launcher-1.0.9.dmg | [World.of.Kogaea.BR.Launcher-1.0.9.dmg](https://github.com/umbecanessa/World-of-Kogaea-BR-Releases/releases/download/launcher-v1.0.9/World.of.Kogaea.BR.Launcher-1.0.9.dmg) |
 
 All launcher releases: [launcher-v1.0.9](https://github.com/umbecanessa/World-of-Kogaea-BR-Releases/releases/tag/launcher-v1.0.9)
@@ -38,21 +38,18 @@ Use these only if you are **not** using the launcher.
 
 | Platform | File | Direct link |
 |----------|------|-------------|
-| **Windows** | game-windows.zip | [Download](https://github.com/umbecanessa/World-of-Kogaea-BR-Releases/releases/download/v0.1.7/game-windows.zip) |
-| **macOS** | game-mac.zip | [Download](https://github.com/umbecanessa/World-of-Kogaea-BR-Releases/releases/download/v0.1.7/game-mac.zip) |
+| **Windows** | game-windows.zip | [Download](https://github.com/umbecanessa/World-of-Kogaea-BR-Releases/releases/download/v0.1.9/game-windows.zip) |
+| **macOS** | game-mac.zip | [Download](https://github.com/umbecanessa/World-of-Kogaea-BR-Releases/releases/download/v0.1.9/game-mac.zip) |
 
 Extract and run the game executable inside the zip. You must connect to **Stage** when prompted.
 
-Current release notes: [v0.1.7](https://github.com/umbecanessa/World-of-Kogaea-BR-Releases/releases/tag/v0.1.7)
+Current release notes: [v0.1.9](https://github.com/umbecanessa/World-of-Kogaea-BR-Releases/releases/tag/v0.1.9)
 
 ---
 
-## What to test (v0.1.7)
+## What to test (v0.1.9)
 
-- **Trainer bots** — queue solo; bots fill lobby and match
-- **Solo / small groups** — Playtest Solo queue (starts at 4 players)
-- **Balance** — PvE difficulty by map ring; Act I farming deaths respawn (not eliminated)
-- **Movement** — report rubber-banding or odd remote trainer movement
+- Fix wild mobs disappearing when leaving and returning to a zone. Fix match menu tabs going blank after opening the map.
 
 ---
 
@@ -62,7 +59,7 @@ Full history and changelogs: **[Releases](https://github.com/umbecanessa/World-o
 
 | Tag | Type |
 |-----|------|
-| [v0.1.7](https://github.com/umbecanessa/World-of-Kogaea-BR-Releases/releases/tag/v0.1.7) | Game (latest) |
+| [v0.1.9](https://github.com/umbecanessa/World-of-Kogaea-BR-Releases/releases/tag/v0.1.9) | Game (latest) |
 | [launcher-v1.0.9](https://github.com/umbecanessa/World-of-Kogaea-BR-Releases/releases/tag/launcher-v1.0.9) | Launcher (latest) |
 
 Older builds remain on the [Releases](https://github.com/umbecanessa/World-of-Kogaea-BR-Releases/releases) page.
