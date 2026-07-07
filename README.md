@@ -2,7 +2,7 @@
 
 Public builds for the **World of Kogaea Battle Royale** playtest. This repo hosts release assets only — game source is private.
 
-**Latest game:** [v0.1.9](https://github.com/umbecanessa/World-of-Kogaea-BR-Releases/releases/tag/v0.1.9) · **Latest launcher:** [v1.0.9](https://github.com/umbecanessa/World-of-Kogaea-BR-Releases/releases/tag/launcher-v1.0.9)
+**Latest game:** [v0.1.21](https://github.com/umbecanessa/World-of-Kogaea-BR-Releases/releases/tag/v0.1.21) · **Latest launcher:** [v1.0.11](https://github.com/umbecanessa/World-of-Kogaea-BR-Releases/releases/tag/launcher-v1.0.11)
 
 ---
 
@@ -21,10 +21,10 @@ You do not need to download the game zip manually unless you want a portable ins
 
 | Platform | File | Direct link |
 |----------|------|-------------|
-| **Windows** | World.of.Kogaea.BR.Launcher-1.0.9.exe | [World.of.Kogaea.BR.Launcher-1.0.9.exe](https://github.com/umbecanessa/World-of-Kogaea-BR-Releases/releases/download/launcher-v1.0.9/World.of.Kogaea.BR.Launcher-1.0.9.exe) |
-| **macOS** (Apple Silicon) | World.of.Kogaea.BR.Launcher-1.0.9.dmg | [World.of.Kogaea.BR.Launcher-1.0.9.dmg](https://github.com/umbecanessa/World-of-Kogaea-BR-Releases/releases/download/launcher-v1.0.9/World.of.Kogaea.BR.Launcher-1.0.9.dmg) |
+| **Windows** | World.of.Kogaea.BR.Launcher-1.0.11.exe | [World.of.Kogaea.BR.Launcher-1.0.11.exe](https://github.com/umbecanessa/World-of-Kogaea-BR-Releases/releases/download/launcher-v1.0.11/World.of.Kogaea.BR.Launcher-1.0.11.exe) |
+| **macOS** (Apple Silicon) | World.of.Kogaea.BR.Launcher-1.0.11.dmg | [World.of.Kogaea.BR.Launcher-1.0.11.dmg](https://github.com/umbecanessa/World-of-Kogaea-BR-Releases/releases/download/launcher-v1.0.11/World.of.Kogaea.BR.Launcher-1.0.11.dmg) |
 
-All launcher releases: [launcher-v1.0.9](https://github.com/umbecanessa/World-of-Kogaea-BR-Releases/releases/tag/launcher-v1.0.9)
+All launcher releases: [launcher-v1.0.11](https://github.com/umbecanessa/World-of-Kogaea-BR-Releases/releases/tag/launcher-v1.0.11)
 
 ### macOS first launch
 
@@ -38,18 +38,18 @@ Use these only if you are **not** using the launcher.
 
 | Platform | File | Direct link |
 |----------|------|-------------|
-| **Windows** | game-windows.zip | [Download](https://github.com/umbecanessa/World-of-Kogaea-BR-Releases/releases/download/v0.1.9/game-windows.zip) |
-| **macOS** | game-mac.zip | [Download](https://github.com/umbecanessa/World-of-Kogaea-BR-Releases/releases/download/v0.1.9/game-mac.zip) |
+| **Windows** | game-windows.zip | [Download](https://github.com/umbecanessa/World-of-Kogaea-BR-Releases/releases/download/v0.1.21/game-windows.zip) |
+| **macOS** | game-mac.zip | [Download](https://github.com/umbecanessa/World-of-Kogaea-BR-Releases/releases/download/v0.1.21/game-mac.zip) |
 
 Extract and run the game executable inside the zip. You must connect to **Stage** when prompted.
 
-Current release notes: [v0.1.9](https://github.com/umbecanessa/World-of-Kogaea-BR-Releases/releases/tag/v0.1.9)
+Current release notes: [v0.1.21](https://github.com/umbecanessa/World-of-Kogaea-BR-Releases/releases/tag/v0.1.21)
 
 ---
 
-## What to test (v0.1.9)
+## What to test (v0.1.21)
 
-- Fix wild mobs disappearing when leaving and returning to a zone. Fix match menu tabs going blank after opening the map.
+- BR v0.1.21: active mon sync, target cycling (Q), corpse overlap fix, grass spell pool, post-match keep-mon, keybinding UX.
 
 ---
 
@@ -59,8 +59,8 @@ Full history and changelogs: **[Releases](https://github.com/umbecanessa/World-o
 
 | Tag | Type |
 |-----|------|
-| [v0.1.9](https://github.com/umbecanessa/World-of-Kogaea-BR-Releases/releases/tag/v0.1.9) | Game (latest) |
-| [launcher-v1.0.9](https://github.com/umbecanessa/World-of-Kogaea-BR-Releases/releases/tag/launcher-v1.0.9) | Launcher (latest) |
+| [v0.1.21](https://github.com/umbecanessa/World-of-Kogaea-BR-Releases/releases/tag/v0.1.21) | Game (latest) |
+| [launcher-v1.0.11](https://github.com/umbecanessa/World-of-Kogaea-BR-Releases/releases/tag/launcher-v1.0.11) | Launcher (latest) |
 
 Older builds remain on the [Releases](https://github.com/umbecanessa/World-of-Kogaea-BR-Releases/releases) page.
 
